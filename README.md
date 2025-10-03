@@ -41,7 +41,7 @@ MySQL – For querying and data exploration
 14. How many employees received a PercentSalaryHike greater than 15% and have not been promoted in the last 3 years? 
 15. Identify employees with high PerformanceRating (4 or 5) but low JobSatisfaction (1 or 2).
 
-![Dashboard](./Dashboard 1(HR).PNG)
+![Dashboard](.Dashboard 1(HR).PNG)
 
 
 
