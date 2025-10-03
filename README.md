@@ -23,6 +23,7 @@ The dataset contains 1481 employee records, 28 columns with details such as:
 
 ### Tools Used
 MySQL – For querying and data exploration
+
 Power BI - For visualisation
 
 ### Business Questions
