@@ -23,6 +23,7 @@ The dataset contains 1481 employee records, 28 columns with details such as:
 
 ### Tools Used
 MySQL – For querying and data exploration
+Power BI - For visualisation
 
 ### Business Questions
 1. How many employees have left the company (Attrition = 'Yes’)? 
@@ -41,7 +42,7 @@ MySQL – For querying and data exploration
 14. How many employees received a PercentSalaryHike greater than 15% and have not been promoted in the last 3 years? 
 15. Identify employees with high PerformanceRating (4 or 5) but low JobSatisfaction (1 or 2).
 
-![Dashboard](.Dashboard 1(HR).PNG)
+![Dashboard 1](./Dashboard%201(HR).PNG)
 
 
 
